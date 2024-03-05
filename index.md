@@ -21,7 +21,7 @@ TBA
 - Teruo Tanimoto (Kyushu Unviersity)
 - Yasunari Suzuki (Nippon Telegraph and Telephone Corporation)
 - Shota Nagayama (Mercari / Keio University)
-- Hayata Yamazaki (The University of Tokyo)
+- Hayata Yamasaki (The University of Tokyo)
 - Akihito Soeda (National Institute of Informatics)
 
 ### Stering comittee
