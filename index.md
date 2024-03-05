@@ -17,11 +17,17 @@ TBA
 TBA
 
 ## Organizers
-- Teruo Tanimoto
-- Yasunari Suzuki
-- Shota Nagayama
-- Hayata Yamazaki
-- Akihito Soeda
+### Organizing committee
+- Teruo Tanimoto (Kyushu Unviersity)
+- Yasunari Suzuki (Nippon Telegraph and Telephone Corporation)
+- Shota Nagayama (Mercari / Keio University)
+- Hayata Yamazaki (The University of Tokyo)
+- Akihito Soeda (National Institute of Informatics)
+
+### Stering comittee
+- Akihisa Tomita (Hokkaido University)
+- Shigeru Yamashita (Ritsumeikan University)
+- Koji Inoue (Kyushu University)
 
 ## Sponsors
 TBA
