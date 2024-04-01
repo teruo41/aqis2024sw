@@ -37,7 +37,7 @@ twitter:
   </div>
 </div>
 </div>
-{% endrow %}
+{% endraw %}
 
 <!-- ![Dawn of Quantum Computer in Sapporo](assets/img/AQIS2024WS-image-small.jpg){:style="display: block; margin: auto;"} -->
 
