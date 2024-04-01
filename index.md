@@ -8,7 +8,54 @@ twitter:
 # AQIS2024 satellite workshop
 {:style="display: none;"}
 
-![Dawn of Quantum Computer in Sapporo](assets/img/AQIS2024WS-image-small.jpg){:style="display: block; margin: auto;"}
+{% raw %}
+<div style="display: flex; align-items: center; justify-content: center">
+<div class="slider">
+  
+  <a href="#slide-1">1</a>
+  <a href="#slide-2">2</a>
+  <a href="#slide-3">3</a>
+  <a href="#slide-4">4</a>
+  <a href="#slide-5">5</a>
+  <!--
+  <a href="#slide-6">6</a>
+  <a href="#slide-7">7</a>
+  <a href="#slide-8">8</a>
+  -->
+ 
+  <div class="slides">
+    <div id="slide-1">
+      <img src="/assets/img/zines/AQIS2024WS-image-small.jpg">
+    </div>
+    <div id="slide-2">
+      <img src="/assets/img/c028-018-small.png">
+    </div>
+    <div id="slide-3">
+      <img src="/assets/img/c087-002-small.png">
+    </div>
+    <div id="slide-4">
+      <img src="/assets/img/c112-001-small.png">
+    </div>
+    <div id="slide-5">
+      <img src="/assets/img/c015-001-small.png">
+    </div>
+  <!--
+    <div id="slide-6">
+      <img src="/assets/img/zines/01_6.png">
+    </div>
+    <div id="slide-7">
+      <img src="/assets/img/zines/01_7.png">
+    </div>
+    <div id="slide-8">
+      <img src="/assets/img/zines/01_8.png">
+    </div>
+  -->
+  </div>
+</div>
+</div>
+{% endrow %}
+
+<!-- ![Dawn of Quantum Computer in Sapporo](assets/img/AQIS2024WS-image-small.jpg){:style="display: block; margin: auto;"} -->
 
 ## About the Workshop
 The AQIS2024 satellite workshop aims to foster collaboration and exchange ideas among researchers and professionals at the intersection of theory, experiment, and architecture toward building fault-tolerant quantum computers. This event serves as a platform to discuss the latest advancements, tackle the challenges, and identify new directions in the field of quantum information science. Participants will have the opportunity to engage in in-depth discussions, share their insights, and explore potential collaborative projects.
