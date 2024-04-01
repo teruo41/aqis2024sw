@@ -9,8 +9,8 @@ layout: default
 The AQIS2024 satellite workshop aims to foster collaboration and exchange ideas among researchers and professionals at the intersection of theory, experiment, and architecture toward building fault-tolerant quantum computers. This event serves as a platform to discuss the latest advancements, tackle the challenges, and identify new directions in the field of quantum information science. Participants will have the opportunity to engage in in-depth discussions, share their insights, and explore potential collaborative projects.
 
 ## Date and Venue
-- Date: August 31st (Sat.), 2024
-- Venue: Sapporo City Gender Equality Center  
+- __Date:__ August 31st (Sat.), 2024
+- __Venue:__ Sapporo City Gender Equality Center  
   Sapporo L-Plaza, Kita 8-jo Nishi 3-chome, Kita-ku, Sapporo, Hokkaido, 060-0808 Japan
 
 {% raw %}
