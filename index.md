@@ -20,19 +20,19 @@ twitter:
  
   <div class="slides">
     <div id="slide-1">
-      <img src="/assets/img/AQIS2024WS-image-small.jpg">
+      <img src="assets/img/AQIS2024WS-image-small.jpg">
     </div>
     <div id="slide-2">
-      <img src="/assets/img/c028-018-small.jpg">
+      <img src="assets/img/c028-018-small.jpg">
     </div>
     <div id="slide-3">
-      <img src="/assets/img/c087-002-small.jpg">
+      <img src="assets/img/c087-002-small.jpg">
     </div>
     <div id="slide-4">
-      <img src="/assets/img/c112-001-small.jpg">
+      <img src="assets/img/c112-001-small.jpg">
     </div>
     <div id="slide-5">
-      <img src="/assets/img/c015-001-small.jpg">
+      <img src="assets/img/c015-001-small.jpg">
     </div>
   </div>
 </div>
