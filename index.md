@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## AQIS2024 Satellite Workshop
+## About the Workshop
 The AQIS2024 satellite workshop aims to foster collaboration and exchange ideas among researchers and professionals at the intersection of theory, experiment, and architecture toward building fault-tolerant quantum computers. This event serves as a platform to discuss the latest advancements, tackle the challenges, and identify new directions in the field of quantum information science. Participants will have the opportunity to engage in in-depth discussions, share their insights, and explore potential collaborative projects.
 ## Date and Venue
 - Date: August 31st (Sat.), 2024
@@ -14,7 +14,9 @@ The workshop will feature a series of keynote speeches, panel discussions, and p
 ## Registration
 Registration details for the AQIS2024 satellite workshop will be made available soon. No registration fee is required.
 
-## Organizers
+## Host
+Committees on AQIS2024 Satellite Workshop on Fault-Tolerant Quantum Computing
+
 ### Organizing committee
 - Teruo Tanimoto (Kyushu University)
 - Yasunari Suzuki (Nippon Telegraph and Telephone Corporation)
@@ -23,13 +25,10 @@ Registration details for the AQIS2024 satellite workshop will be made available 
 - Akihito Soeda (National Institute of Informatics, Research Organization of Information and Systems)
 - Yuta Mizuno (Hokkaido University)
 
-### Steering committee
+### Steering comittee
 - Akihisa Tomita (Hokkaido University)
 - Shigeru Yamashita (Ritsumeikan University)
 - Koji Inoue (Kyushu University)
-
-## Host
-Committee on AQIS2024 Satellite Workshop on Fault-Tolerant Quantum Computing
 
 ## Endorsed by (alphabetical):
 - Koashi Project, JST Moonshot Program Goal 6
