@@ -25,7 +25,7 @@ twitter:
  
   <div class="slides">
     <div id="slide-1">
-      <img src="/assets/img/zines/AQIS2024WS-image-small.jpg">
+      <img src="/assets/img/AQIS2024WS-image-small.jpg">
     </div>
     <div id="slide-2">
       <img src="/assets/img/c028-018-small.png">
