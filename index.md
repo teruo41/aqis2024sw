@@ -12,12 +12,14 @@ twitter:
 {% raw %}
 <div style="display: flex; align-items: center; justify-content: center">
 <div class="slider">
-  
+
+  <!--
   <a href="#slide-1">1</a>
   <a href="#slide-2">2</a>
   <a href="#slide-3">3</a>
   <a href="#slide-4">4</a>
   <a href="#slide-5">5</a>
+  -->
  
   <div class="slides">
     <div id="slide-1">
@@ -36,6 +38,13 @@ twitter:
       <img src="assets/img/c015-001-small.jpg">
     </div>
   </div>
+
+  <a href="#slide-1">1</a>
+  <a href="#slide-2">2</a>
+  <a href="#slide-3">3</a>
+  <a href="#slide-4">4</a>
+  <a href="#slide-5">5</a>
+  
 </div>
 </div>
 {% endraw %}
