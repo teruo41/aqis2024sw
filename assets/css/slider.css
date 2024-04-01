@@ -46,8 +46,8 @@
 .slides > div {
   scroll-snap-align: start;
   flex-shrink: 0;
-  width: 500px;
-  height: 705px;
+  width: 600px;
+  height: 300px;
   /*margin-right: 50px;*/
   margin: auto;
   padding: auto;
@@ -144,17 +144,3 @@
     display: none;
   }
 }
- 
-/*
-html, body {
-  height: 100%;
-  overflow: hidden;
-}
-body {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background: linear-gradient(to bottom, #74ABE2, #5563DE);
-  font-family: 'Ropa Sans', sans-serif;
-}
-*/
