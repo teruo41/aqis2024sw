@@ -1,6 +1,6 @@
 .slider {
   box-sizing: border-box;
-  width: 600px;
+  width: 640px;
   text-align: center;
   overflow: hidden;
   margin: auto;
@@ -46,8 +46,8 @@
 .slides > div {
   scroll-snap-align: start;
   flex-shrink: 0;
-  width: 600px;
-  height: 300px;
+  width: 620px;
+  height: 350px;
   /*margin-right: 50px;*/
   margin: auto;
   padding: auto;
