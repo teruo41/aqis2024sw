@@ -16,7 +16,7 @@ The AQIS2024 satellite workshop aims to foster collaboration and exchange ideas 
   Sapporo L-Plaza, Kita 8-jo Nishi 3-chome, Kita-ku, Sapporo, Hokkaido, 060-0808 Japan
 
 {% raw %}
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d23316.876998813346!2d141.33911299993122!3d43.07067726432903!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5f0b290b765d2cb9%3A0x92fb31b5c3ca80e7!2z5pyt5bmM44Ko44Or44OX44Op44K2!5e0!3m2!1sja!2sjp!4v1711955791887!5m2!1sen!2sjp" width="600" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d23316.876998813346!2d141.33911299993122!3d43.07067726432903!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5f0b290b765d2cb9%3A0x92fb31b5c3ca80e7!2z5pyt5bmM44Ko44Or44OX44Op44K2!5e0!3m2!1sja!2sjp!4v1711955791887!5m2!1sen!2sjp" width="600" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" style="display: block; margin: auto;"></iframe>
 {% endraw %}
 
 ## Program
