@@ -1,5 +1,6 @@
 ---
 layout: default
+custom_css: slider
 image: assets/img/f80d3c81-f6eb-4185-b82b-537123c3dbc3.jpg
 twitter:
   card: summary
