@@ -18,13 +18,14 @@ TBA
 
 ## Organizers
 ### Organizing committee
-- Teruo Tanimoto (Kyushu Unviersity)
+- Teruo Tanimoto (Kyushu University)
 - Yasunari Suzuki (Nippon Telegraph and Telephone Corporation)
 - Shota Nagayama (Mercari / Keio University)
 - Hayata Yamasaki (The University of Tokyo)
 - Akihito Soeda (National Institute of Informatics)
+- Yuta Mizuno (Hokkaido University)
 
-### Stering comittee
+### Steering comittee
 - Akihisa Tomita (Hokkaido University)
 - Shigeru Yamashita (Ritsumeikan University)
 - Koji Inoue (Kyushu University)
