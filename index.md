@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 # AQIS2024 satellite workshop
 {:style="display: none;"}
 
@@ -9,7 +10,10 @@ The AQIS2024 satellite workshop aims to foster collaboration and exchange ideas 
 
 ## Date and Venue
 - Date: August 31st (Sat.), 2024
-- Venue: Sapporo, Japan (TBA)
+- Venue: Sapporo City Gender Equality Center  
+  Sapporo L Plaza, Kita 8-jo Nishi 3-chome, Kita-ku, Sapporo, Hokkaido, 060-0808 Japan
+
+{% include venue-embed.html %}
 
 ## Program
 The workshop will feature a series of keynote speeches, panel discussions, and poster sessions, allowing participants to delve into various aspects of quantum information science. The program is designed to cater to a diverse audience, including researchers, practitioners, and students. Detailed information about the program schedule, including session topics and speaker lineups, will be released closer to the event date.
