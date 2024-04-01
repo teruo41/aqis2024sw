@@ -25,7 +25,7 @@ Registration details for the AQIS2024 satellite workshop will be made available 
 - Akihito Soeda (National Institute of Informatics, Research Organization of Information and Systems)
 - Yuta Mizuno (Hokkaido University)
 
-### Steering comittee
+### Steering committee
 - Akihisa Tomita (Hokkaido University)
 - Shigeru Yamashita (Ritsumeikan University)
 - Koji Inoue (Kyushu University)
