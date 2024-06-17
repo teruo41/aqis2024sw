@@ -66,6 +66,12 @@ The AQIS2024 satellite workshop aims to foster collaboration and exchange ideas 
 ## Program
 The workshop will feature a series of keynote speeches, panel discussions, and poster sessions, allowing participants to delve into various aspects of quantum information science. The program is designed to cater to a diverse audience, including researchers, practitioners, and students. Detailed information about the program schedule, including session topics and speaker lineups, will be released closer to the event date.
 
+### Confirmed speakers
+- Warit Asavanant (The University of Tokyo)
+- Poulami Das (The University of Texas at Austin)
+- Thinh Le (University of Technology Sydney)
+- Ting-Chun Lin (University of California San Diego)
+
 ## Registration
 Registration details for the AQIS2024 satellite workshop will be made available soon. No registration fee is required.
 
