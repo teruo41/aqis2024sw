@@ -79,8 +79,8 @@ Detailed information about the program schedule, including session topics and sp
 
 ## Registration
 ___Please Register [here](https://forms.office.com/r/aBzvTxyC93)!!!___
-No registration fee is required.
-The registration deadline to join the evening social event is __Aug. 10th__.
+- No registration fee is required.
+- The registration deadline to join the evening social event is __Aug. 10th__.
 
 ## Host
 Committees on AQIS2024 Satellite Workshop on Fault-Tolerant Quantum Computing
