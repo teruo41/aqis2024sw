@@ -6,6 +6,8 @@ twitter:
   card: summary
 ---
 
+___News: now, the registration form is open!___
+
 # AQIS2024 satellite workshop
 {:style="display: none;"}
 
@@ -52,7 +54,8 @@ twitter:
 <!-- ![Dawn of Quantum Computer in Sapporo](assets/img/AQIS2024WS-image-small.jpg){:style="display: block; margin: auto;"} -->
 
 ## About the Workshop
-The AQIS2024 satellite workshop aims to foster collaboration and exchange ideas among researchers and professionals at the intersection of theory, experiment, and architecture toward building fault-tolerant quantum computers. This event serves as a platform to discuss the latest advancements, tackle the challenges, and identify new directions in the field of quantum information science. Participants will have the opportunity to engage in in-depth discussions, share their insights, and explore potential collaborative projects.
+The AQIS2024 satellite workshop aims to foster collaboration and exchange ideas among researchers and professionals at the intersection of theory, experiment, and architecture toward building fault-tolerant quantum computers.
+This event serves as a platform to discuss the latest advancements, tackle the challenges, and identify new directions in the field of quantum information science. Participants will have the opportunity to engage in in-depth discussions, share their insights, and explore potential collaborative projects.
 
 ## Date and Venue
 - __Date:__ August 31st (Sat.), 2024
@@ -64,7 +67,9 @@ The AQIS2024 satellite workshop aims to foster collaboration and exchange ideas 
 {% endraw %}
 
 ## Program
-The workshop will feature a series of keynote speeches, panel discussions, and poster sessions, allowing participants to delve into various aspects of quantum information science. The program is designed to cater to a diverse audience, including researchers, practitioners, and students. Detailed information about the program schedule, including session topics and speaker lineups, will be released closer to the event date.
+The workshop will feature a series of keynote speeches and panel discussions, allowing participants to delve into various aspects of quantum information science.
+The program is designed to cater to a diverse audience, including researchers, practitioners, and students.
+Detailed information about the program schedule, including session topics and speaker lineups, will be released closer to the event date.
 
 ### Confirmed speakers
 - Warit Asavanant (The University of Tokyo)
@@ -73,7 +78,9 @@ The workshop will feature a series of keynote speeches, panel discussions, and p
 - Ting-Chun Lin (University of California San Diego)
 
 ## Registration
-Registration details for the AQIS2024 satellite workshop will be made available soon. No registration fee is required.
+___Please Register [here](https://forms.office.com/r/aBzvTxyC93)!!!___
+No registration fee is required.
+The registration deadline to join the evening social event is __Aug. 10th__.
 
 ## Host
 Committees on AQIS2024 Satellite Workshop on Fault-Tolerant Quantum Computing
