@@ -67,7 +67,7 @@ This event serves as a platform to discuss the latest advancements, tackle the c
 {% endraw %}
 
 ## Program
-The workshop will feature a series of keynote speeches and panel discussions, allowing participants to delve into various aspects of quantum information science.
+The workshop will feature a series of keynote speeches, a panel discussion, and a poster session, allowing participants to delve into various aspects of quantum information science.
 The program is designed to cater to a diverse audience, including researchers, practitioners, and students.
 Detailed information about the program schedule, including session topics and speaker lineups, will be released closer to the event date.
 
@@ -80,7 +80,8 @@ Detailed information about the program schedule, including session topics and sp
 ## Registration
 ___Please Register [here](https://forms.office.com/r/aBzvTxyC93)!!!___
 - No registration fee is required.
-- The registration deadline to join the evening social event is __Aug. 10th__.
+- We will accept up to 20 poster presentations in the poster session. Please enter your poster information in the registration form by __Aug. 10th__. Notification will be sent by Aug. 16th.
+- The registration deadline for the evening social event is __Aug. 10th__.
 
 ## Host
 Committees on AQIS2024 Satellite Workshop on Fault-Tolerant Quantum Computing
