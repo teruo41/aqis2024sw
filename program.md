@@ -1,3 +1,12 @@
+<style type="text/css">
+  thead {
+    display: none;
+  }
+  table, td {
+    border: none;
+  }  
+</style>
+
 # AQIS2024 satellite workshop program
 {:style="display: none;"}
 
