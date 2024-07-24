@@ -25,7 +25,6 @@
 | 15:30 | Break           |
 | 16:00 | Panel session   |
 | 16:50 | Closing remarks |
-{:style="border: none; background: #FFF;"}
 
 ## Evening Networking Event
 
