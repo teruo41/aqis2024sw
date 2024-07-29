@@ -38,7 +38,7 @@ Sapporo Beer Garden, Poplar-kan
 This place is 15 minutes by foot and bus or 30 minutes by foot from the venue.  
 
 {% raw %}
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2060.974969491864!2d141.36699899196162!3d43.069644141417825!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5f0b296e9f8921d9%3A0xab7036fea64b2cd2!2z44Od44OX44Op6aSo!5e0!3m2!1sen!2sjp!4v1722235920871!5m2!1sja!2sjp" width="600" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2060.974969491864!2d141.36699899196162!3d43.069644141417825!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5f0b296e9f8921d9%3A0xab7036fea64b2cd2!2z44Od44OX44Op6aSo!5e0!3m2!1sen!2sjp!4v1722235920871!5m2!1sen!2sjp" width="600" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 {% endraw %}
 
 Back to [Home]({{ site.baseurl }})
