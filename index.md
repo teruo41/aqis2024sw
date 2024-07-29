@@ -6,6 +6,7 @@ twitter:
   card: summary
 ---
 
+___News: The program is open!___
 ___News: Now, the registration form is open!___
 
 # AQIS2024 satellite workshop
@@ -69,7 +70,7 @@ This event serves as a platform to discuss the latest advancements, tackle the c
 ## Program
 The workshop will feature a series of keynote speeches, a panel discussion, and a poster session, allowing participants to delve into various aspects of quantum information science.
 The program is designed to cater to a diverse audience, including researchers, practitioners, and students.
-Detailed information about the program schedule, including session topics and speaker lineups, will be released closer to the event date.
+__Program is [here](program.md)!__
 
 ### Confirmed speakers
 - Warit Asavanant (The University of Tokyo)
