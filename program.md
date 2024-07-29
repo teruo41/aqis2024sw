@@ -28,7 +28,17 @@
 
 ## Evening Networking Event
 
-We will hold an evening networking event from 19:00.
+We will hold an evening networking event from __18:00__.
 If you want to join, please mark the checkbox in [the registration application](https://forms.office.com/r/aBzvTxyC93) by Aug. 10.
-The cost will be around 6,000 JPY (around $40); please pay at the place.
-The detailed information is to be announced.
+The cost will be 6,000 JPY (around $40); please pay at the place.
+
+Sapporo Beer Garden, Poplar-kan
+9-2-10, Kita7Jo, Higashi-ku, Sapporo, Hokkaido, 065-0007
+https://www.sapporo-bier-garten.jp/global/english.html
+This place is 15 minutes by foot and bus or 30 minutes by foot from the venue.
+
+{% raw %}
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2060.974969491864!2d141.36699899196162!3d43.069644141417825!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5f0b296e9f8921d9%3A0xab7036fea64b2cd2!2z44Od44OX44Op6aSo!5e0!3m2!1sen!2sjp!4v1722235920871!5m2!1sja!2sjp" width="600" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+{% endraw %}
+
+Back to [Home]({{ site.baseurl }})
