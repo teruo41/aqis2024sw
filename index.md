@@ -6,7 +6,7 @@ twitter:
   card: summary
 ---
 
-___News: The program is open!___  
+___News: The program is UPDATED!___  
 ___News: Now, the registration form is open!___
 
 # AQIS2024 satellite workshop
