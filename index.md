@@ -75,6 +75,7 @@ __Program is [here](program.md)!__
 ### Confirmed speakers
 - Warit Asavanant (The University of Tokyo)
 - Poulami Das (The University of Texas at Austin)
+- Shin Nishio (Okinawa Institute of Science and Technology Graduate University)
 - Thinh Le (University of Technology Sydney)
 - Ting-Chun Lin (University of California San Diego)
 
