@@ -27,11 +27,50 @@
 | 16:10 | Panel session   |
 | 16:50 | Closing remarks |
 
+## Poster presentations
+
+- __Concatenated Steane code with single-flag syndrome checks__  
+Balint Pato, Theerapat Tansuwannont, Kenneth R. Brown
+
+- __Stimulated Raman Ultrafast Passage__  
+Seongjin Ahn, and Andrey S. Moskalenko
+
+- __Strategic Codes: The Universal Spatio-Temporal Framework for Quantum Error-Correction__  
+Andrew Tanggara, Mile Gu, Kishor Bharti
+
+- __Improving threshold for fault-tolerant color code quantum computing by flagged weight optimization__  
+Yugo Takada, Keisuke Fujii
+
+- __XQsim & QIsim: Architectural Exploration Framework for Superconducting Quantum Computers__  
+Ilkwon Byun, Dongmoon Min, Jumpyo Kim, Junhyuk Choi, Jangwoo Kim, Ikki Nagaoka, Kosuke Fukumitsu, Iori Ishikawa, Teruo Tanimoto, Masamitsu Tanaka, Koji Inoue
+
+- __Virtual local operations and classical communication for distributed quantum computation__  
+Kaoru Yamamoto, Yuichiro Matsuzaki, Yasunari Suzuki, Yuuki Tokunaga, Suguru Endo
+
+- __Symmetric Clifford twirling for cost-optimal quantum error mitigation in early FTQC regime__  
+Kento Tsubouchi, Yosuke Mitsuhashi, Kunal Sharma, Nobuyuki Yoshioka
+
+- __Concatenate codes, save qubits__  
+Satoshi Yoshida, Shiro Tamiya, Hayata Yamasaki
+
+- __Development of software for FTQC algorithm and architecture research__  
+Toru Kawakubo
+
+<!--
+- __Incompatibility in multi-parameter quantum estimation__  
+Lingna Wang, Hongzhen Chen, Haidong Yuan
+
+- __Decoding Error Correction Codes with Boundaries__  
+Mark B. Myers II, Hui Khoon Ng
+-->
+
 ## Evening Networking Event
 
-We will hold an evening networking event from __18:00__.
-If you want to join, please mark the checkbox in [the registration application](https://forms.office.com/r/aBzvTxyC93) by Aug. 10.
-The cost will be 6,000 JPY (around $40); please pay at the place.
+We will hold an evening networking event from __18:00__.  
+~~If you want to join, please mark the checkbox in [the registration application](https://forms.office.com/r/aBzvTxyC93) by Aug. 10.~~(__The registration is closed__)
+
+~~The cost will be 6,000 JPY (around $40); please pay at the place.~~  
+The cost of the event will be covered by AQIS conference.
 
 Sapporo Beer Garden, Poplar-kan  
 9-2-10, Kita7Jo, Higashi-ku, Sapporo, Hokkaido, 065-0007  
