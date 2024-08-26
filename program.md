@@ -59,10 +59,10 @@ Toru Kawakubo
 <!--
 - __Incompatibility in multi-parameter quantum estimation__  
 Lingna Wang, Hongzhen Chen, Haidong Yuan
+-->
 
 - __Decoding Error Correction Codes with Boundaries__  
 Mark B. Myers II, Hui Khoon Ng
--->
 
 ## Evening Networking Event
 
