@@ -24,7 +24,7 @@
 | 14:40 | Invited talk 4 - __Shin Nishio__ (Okinawa Institute of Science and Technology Graduate University)<br><br>___A computer system perspective of large-scale quantum computers___<br>As the execution speed of the atomic operations of quantum computation in many physical systems is slower than that in classical computation, large-scale quantum computation is required to achieve a computational advantage. Fault-tolerant quantum computation, one of the frameworks for realizing large-scale quantum computation, introduces spatial overhead, including a large number of physical qubits, and temporal overhead, including logical gates and magic state distillation. In addition to these, costs related to classical computational resources for a system software are non-negligible. In this talk, we will give an overview of the system software configuration required for large-scale quantum computers. Then, we will discuss the results and prospects of resource optimization in distributed quantum computing systems with quantum interconnects, a promising approach for scaling up quantum computers. As a further developmental topic, we deal with formal language for distributed quantum computing; we show a method for detecting deadlocks in quantum programs with a type system.|
 | 15:20 | Invited talk 5 - __Warit Asavanant__ (The University of Tokyo)<br><br>___Advances toward large-scale fault-tolerant optical quantum computing with quantum teleportation___<br>Since its proposal, we have seen developments of quantum computing platforms across various physical systems. To achieve useful quantum computation, we must scale up the system so that a large number of qubits can be utilized for both calculations and achieving fault tolerance. Scalability, however, is not a straightforward task; for most systems, we cannot simply put multiple copies of the small-scale systems due to physical, technical, and practical limitations. In this regard, optical systems have utilized their physical traits as flying qubits with high carrier frequency to achieve large-scale quantum entanglement and computation, without requiring more physical components. This removes most of the hurdles found in other systems. In this talk, I will discuss the approaches taken by optical systems in the journey for large-scale quantum computation. The key technology here is the quantum teleportation protocol which contains all the basic ingredients required in the fault-tolerant quantum computation. This talk will review developments of optical quantum computation with main focus on continuous-variable (CV) systems and multiplexing techniques which have shown to be most prominent in CV optical systems.|
 | 16:00 | Break           |
-| 16:10 | Panel session   |
+| 16:10 | Panel session<br><br>__Panelists__<br><ul><li>Warit Asavanant (The University of Tokyo)</li><li>Shin Nishio (Okinawa Institute of Science and Technology Graduate University)</li><li>Thinh Le (University of Technology Sydney)</li><li>Ting-Chun Lin (University of California San Diego)</li></ul>__Moderator__<ul><li>Akihito Soeda (National Institute of Informatics, Research Organization of Information and Systems)</li><li>Yosuke Ueno (RIKEN)</li></ul>|
 | 16:50 | Closing remarks |
 
 ## Poster presentations
@@ -40,9 +40,6 @@ Andrew Tanggara, Mile Gu, Kishor Bharti
 
 - __Improving threshold for fault-tolerant color code quantum computing by flagged weight optimization__  
 Yugo Takada, Keisuke Fujii
-
-- __XQsim & QIsim: Architectural Exploration Framework for Superconducting Quantum Computers__  
-Ilkwon Byun, Dongmoon Min, Jumpyo Kim, Junhyuk Choi, Jangwoo Kim, Ikki Nagaoka, Kosuke Fukumitsu, Iori Ishikawa, Teruo Tanimoto, Masamitsu Tanaka, Koji Inoue
 
 - __Virtual local operations and classical communication for distributed quantum computation__  
 Kaoru Yamamoto, Yuichiro Matsuzaki, Yasunari Suzuki, Yuuki Tokunaga, Suguru Endo
@@ -63,6 +60,9 @@ Lingna Wang, Hongzhen Chen, Haidong Yuan
 
 - __Decoding Error Correction Codes with Boundaries__  
 Mark B. Myers II, Hui Khoon Ng
+
+- __SFQ counter-based precomputation for large-scale cryogenic VQE machines__
+Yosuke Ueno, Satoshi Imamura, Yuna Tomida, Teruo Tanimoto, Masamitsu Tanaka, Yutaka Tabuchi, Koji Inoue, Hiroshi Nakamura
 
 ## Evening Networking Event
 
